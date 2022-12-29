@@ -1,0 +1,7 @@
+-classpath '/Users/gunyoung/Desktop/prac/OpenSourceprac/build/classes/java/main:/Users/gunyoung/Desktop/prac/OpenSourceprac/build/resources/main:/Users/gunyoung/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar:/Users/gunyoung/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar'
+-d '/Users/gunyoung/Desktop/prac/OpenSourceprac/build/docs/javadoc'
+-doctitle 'OpenSourceprac 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'OpenSourceprac 1.0-SNAPSHOT API'
+'/Users/gunyoung/Desktop/prac/OpenSourceprac/src/main/java/io/github/_0AndWild/Validator.java'

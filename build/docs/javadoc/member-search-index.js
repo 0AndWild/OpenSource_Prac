@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"io.github._0AndWild","c":"Validator","l":"validateSpecialCharacters(String, String)","url":"validateSpecialCharacters(java.lang.String,java.lang.String)"},{"p":"io.github._0AndWild","c":"Validator","l":"Validator()","url":"%3Cinit%3E()"}]

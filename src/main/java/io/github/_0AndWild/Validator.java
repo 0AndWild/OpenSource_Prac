@@ -10,8 +10,9 @@ public class Validator {
      * <pre>
      *  사용가능한 특수문자 이외의 특수문자가 있는지 검사하는 메서드
      * </pre>
-     * @param s - 검사할 String
-     * @param specialCharacters - 포함가능한 특수문자, 특수문자를 []에 감싸서 입력 ex) "[!@#$^&+]"
+     * @param s 검사할 String
+     * @param specialCharacters 포함가능한 특수문자, 특수문자를 []에 감싸서 입력
+     * @return boolean - 통과 시 true, 포함할 수 없는 특수문자 존재 시 false
      */
 
     public static boolean validateSpecialCharacters(String s, String specialCharacters){
