@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github._0AndWild.ValidatorTest$validateSpecialCharacters" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-29T11:16:33" hostname="baggeon-yeong-ui-MacBookPro.local" time="0.027">
+  <properties/>
+  <testcase name="특수문자 형식 실패 케이스" classname="io.github._0AndWild.ValidatorTest$validateSpecialCharacters" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
